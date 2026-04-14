@@ -1,0 +1,19 @@
+Raw Dataset means the data which is in the actual font or format.
+
+Rolling Statistics means the raw data specific interval of time the average is taken and that average is ploted or seen also 
+the average of each small parts is visible.
+
+Standard Deviation means it will act as a container where the rolling mean is present
+inside it. and that standard deviation will show that how much is the difference is present
+in the actual and the rolling statistics one. 
+Here the +-1 means it will cover the 68% of the data, +-2 means 98% and +-3 means 99.7%
+
+Total G-Force Intensity (Net Magnitude)
+Means let say when you drive your car, when you press emergency brake than you come front,
+or when you press accelator than you go backward into the sit,
+or when you go cornering in speed than you will see the sit force moving you in that direction 
+all this things come into the gforce intensity plot,
+how to read this plot, the x axis is showing the time as you move further till end you will see the time changes,
+the intensity on the left means that it is showing how much the pressure is car seeing in all the three directions
+that are side ways, up or down, left or right.
+
